@@ -1,7 +1,10 @@
-name = "AnimatBase"
+name = "AnimatGameBase"
 uuid = "76f063f6-2877-44bc-a571-92544225fec7"
 authors = ["dusty <dusty.irwin@gmail.com> and contributors"]
 version = "0.1.0"
+
+[deps]
+Animat = "98d467cd-79b5-4af5-ba60-98d04aae8884"
 
 [compat]
 julia = "1"
