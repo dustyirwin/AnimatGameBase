@@ -5,7 +5,7 @@ using Base.Threads
 
 export GAME_SETTINGS, STAGE, SCREEN_WIDTH, SCREEN_HEIGHT, SCREEN_BORDER
 
-export Card
+export Card, bd
 
 const bd = "$(@__DIR__)/.."
 
