@@ -10,7 +10,7 @@ export Card, bd
 const bd = "$(@__DIR__)/.."
 
 # cheating in local decks
-const decks_dir = "C:/Users/dusty/My Drive/AnimatProjects/AnimatGames/AniMage/decks"
+#const decks_dir = "C:/Users/dusty/My Drive/AnimatProjects/AnimatGames/AniMage/decks"
 const default_font = "$bd/assets/fonts/OpenSans-Regular.ttf"
 const bold_font = "$bd/assets/fonts/OpenSans-Bold.ttf"
 

@@ -5,6 +5,8 @@ version = "0.1.0"
 
 [deps]
 Animat = "98d467cd-79b5-4af5-ba60-98d04aae8884"
+GameOne = "9da27670-f782-11e9-1da1-f53579315bfe"
+SimpleDirectMediaLayer = "98e33af6-2ee5-5afd-9e75-cbc738b767c4"
 
 [compat]
 julia = "1"
